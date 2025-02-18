@@ -1,0 +1,7 @@
+Project-Info-Gradle-Plugin
+--------------------------
+
+A Gradle plugin that displays project information during builds.
+
+Current version: 0.1.0.
+~~~~~~~~~~~~~~~~~~~~~~~
